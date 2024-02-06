@@ -13,7 +13,7 @@ Undergraduate student
 
 ## Currently
 
-Standing on the shoulders of giants
+person
 
 ### Specialized in
 
