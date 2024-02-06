@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Leah Kwak's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Leah Kwak
+Undergraduate student
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
